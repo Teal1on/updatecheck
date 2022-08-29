@@ -1,1 +1,1 @@
-# updatecheck
+2.0
